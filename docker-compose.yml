@@ -1,0 +1,5 @@
+services:
+  password-generator-web:
+    image: password-generator-web
+    ports:
+      - "3000:3000"
